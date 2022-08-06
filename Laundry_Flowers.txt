@@ -2,3 +2,6 @@ Laundry Flowers
 -Membuat Header 
 -Membuat isi konten laundry
 -Membuat Footer
+
+-Membuat tampilan menjadi responsive
+-Menggunakan framework
